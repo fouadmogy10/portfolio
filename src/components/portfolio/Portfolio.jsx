@@ -61,13 +61,13 @@ const Portfolio = () => {
     },
     {
       id: 1,
-      title: 'movie app Redux',
+      title: 'E-commerce app',
       img: IMG6,
       description:
         'movie app that allows users to watch films ',
-      technologies: 'React | Redux',
+      technologies: 'React',
       link: 'eco-system-front-end.vercel.app',
-      github: 'https://github.com/fouadmogy10/movie-redux',
+      github: 'https://github.com/fouadmogy10/ecoSystem-frontEnd',
     },
   ];
 
