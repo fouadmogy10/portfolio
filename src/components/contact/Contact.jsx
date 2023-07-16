@@ -52,7 +52,7 @@ const Contact = () => {
             required
           />
           <input
-            type="text"
+            type="email"
             placeholder="Your Email"
             name="email"
             required
